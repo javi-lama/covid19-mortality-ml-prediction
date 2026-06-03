@@ -35,3 +35,7 @@ wheels/
 .RData
 .Ruserdata
 .Rproj.user/
+*.rds
+
+# Node
+node_modules/

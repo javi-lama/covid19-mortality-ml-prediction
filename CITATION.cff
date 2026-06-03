@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Lama Agurto"
+    given-names: "Javier A."
+    orcid: "https://orcid.org/0000-0000-0000-0000" # Replace with actual ORCID if available
+title: "COVID-19 Mortality Prediction using Explainable Machine Learning"
+version: 1.0.0
+date-released: 2026-06-03
+url: "https://github.com/javi-lama/covid19-mortality-ml-prediction"
+repository-code: "https://github.com/javi-lama/covid19-mortality-ml-prediction"
+keywords:
+  - covid-19
+  - machine-learning
+  - explainable-ai
+  - shap
+  - clinical-prediction-model
+  - random-forest
+  - xgboost
+license: MIT
