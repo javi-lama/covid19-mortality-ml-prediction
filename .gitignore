@@ -36,6 +36,16 @@ wheels/
 .Ruserdata
 .Rproj.user/
 *.rds
+*.Rproj
+
+# Raw data (prevent committing raw patient data)
+data/*
+!data/processed/
+!data/README.md
+data/raw_database_covid19mortality.csv
+
+# PLOS One guidelines
+docs/plos_one_guidelines/
 
 # Node
 node_modules/
